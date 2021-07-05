@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "562728788320",
+    "project_id": "app-bacsichidinh",
+    "storage_bucket": "app-bacsichidinh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562728788320:android:ee56df375f78189ce5be05",
+        "android_client_info": {
+          "package_name": "bacsichidinh.doctorcheck.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562728788320-kvchdkkjjol7np7hkpohvf8357nc3a83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bacsichidinh.doctorcheck.app",
+            "certificate_hash": "da6c5714ad7b76ec5aceae4aed484d52e9fc48d3"
+          }
+        },
+        {
+          "client_id": "562728788320-sj5cjks454ppk2dnvu29krppj5q2vd7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjAIMARAn1WrR51ZfIYcBHyU0NjUnAqc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562728788320-sj5cjks454ppk2dnvu29krppj5q2vd7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
